@@ -152,5 +152,9 @@
 		"83151523",
 		"87984196",
 		"88237507"
-	]
+	],
+	"email": "destineechoojfm@hotmail.com",
+	"emailPassword": "a9V2iJ0vpF",
+	"imapHost": "outlook.office365.com",
+	"imapPort": "993"
 }
