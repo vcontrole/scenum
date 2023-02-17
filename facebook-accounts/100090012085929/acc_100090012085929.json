@@ -152,5 +152,9 @@
 		"74979974",
 		"90035934",
 		"91195447"
-	]
+	],
+	"email": "den1snst@hotmail.com",
+	"emailPassword": "cjg5iQ3i5",
+	"imapHost": "outlook.office365.com",
+	"imapPort": "993"
 }
