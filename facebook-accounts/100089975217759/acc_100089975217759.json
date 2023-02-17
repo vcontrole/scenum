@@ -102,7 +102,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1677214330,
+			"expirationDate": 1677214477,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -115,7 +115,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1684385308.416803,
+			"expirationDate": 1684385548.966603,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -124,7 +124,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0ofPjwQ4axdoWqmaN.AWWsDVygtYx-q3531QeAqASUdMM.Bj7wZe.jf.AAA.0.0.Bj7wcd.AWXecNOT_jA"
+			"value": "0ofPjwQ4axdoWqmaN.AWWOTjsPZt_RO7xbDR3h05FtiRc.Bj7wZe.jf.AAA.0.0.Bj7wgO.AWUtYw5hULc"
 		},
 		{
 			"domain": ".facebook.com",
@@ -136,8 +136,8 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1676609484731%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1676609680280%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "17.02.2023 04:52 01 - Criar perfil e preencher P02"
+	"lastEventDate": "17.02.2023 04:55 01 - Criar perfil e preencher P02"
 }
