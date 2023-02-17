@@ -160,3 +160,32 @@ MADE IN FELIPE FRANÇA
 	}
 ]
 MADE IN FELIPE FRANÇA
+undefined;undefined;undefined;Mozilla/5.0 (Windows NT 6.2; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36;;:::;
+[
+	{
+		"domain": ".facebook.com",
+		"expirationDate": 1711158780.944897,
+		"hostOnly": false,
+		"httpOnly": true,
+		"name": "sb",
+		"path": "/",
+		"sameSite": "no_restriction",
+		"secure": true,
+		"session": false,
+		"storeId": "0",
+		"value": "_d3uY1I8Lxy4T3jh9IYGS64p"
+	},
+	{
+		"domain": ".facebook.com",
+		"expirationDate": 1684374799.942897,
+		"hostOnly": false,
+		"httpOnly": true,
+		"name": "fr",
+		"path": "/",
+		"sameSite": "no_restriction",
+		"secure": true,
+		"session": false,
+		"storeId": "0",
+		"value": "047d4KNWMNrFBSvdW..Bj7t39.Ab.AAA.0.0.Bj7t4R.AWVXI6kHxqU"
+	}
+]
