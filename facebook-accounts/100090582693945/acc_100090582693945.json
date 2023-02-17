@@ -152,5 +152,9 @@
 		"60210662",
 		"72150742",
 		"76636801"
-	]
+	],
+	"email": "chaurvqc@hotmail.com",
+	"emailPassword": "y0Oq7m7s",
+	"imapHost": "outlook.office365.com",
+	"imapPort": "993"
 }
