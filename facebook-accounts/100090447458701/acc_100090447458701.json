@@ -152,5 +152,9 @@
 		"96494239",
 		"98166700",
 		"99238895"
-	]
+	],
+	"email": "nildagastervo4@hotmail.com",
+	"emailPassword": "w2ggpkdD2",
+	"imapHost": "outlook.office365.com",
+	"imapPort": "993"
 }
