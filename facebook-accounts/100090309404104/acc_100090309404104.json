@@ -152,5 +152,9 @@
 		"75724223",
 		"83132716",
 		"90031550"
-	]
+	],
+	"email": "madraghirtr@hotmail.com",
+	"emailPassword": "fv4P6Tas",
+	"imapHost": "outlook.office365.com",
+	"imapPort": "993"
 }
