@@ -152,5 +152,9 @@
 		"59555481",
 		"60778661",
 		"68667581"
-	]
+	],
+	"email": "conniej1z@hotmail.com",
+	"emailPassword": "flPk1vhq",
+	"imapHost": "outlook.office365.com",
+	"imapPort": "993"
 }
