@@ -152,5 +152,9 @@
 		"60600695",
 		"81404298",
 		"99892064"
-	]
+	],
+	"email": "sharikatgfra@hotmail.com",
+	"emailPassword": "qrtimi4Ug5",
+	"imapHost": "outlook.office365.com",
+	"imapPort": "993"
 }
