@@ -152,5 +152,9 @@
 		"63005693",
 		"64516158",
 		"88676001"
-	]
+	],
+	"email": "tiannamin1j@hotmail.com",
+	"emailPassword": "PwR7Rx2yi",
+	"imapHost": "outlook.office365.com",
+	"imapPort": "993"
 }
