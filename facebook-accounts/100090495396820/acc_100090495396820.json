@@ -152,5 +152,9 @@
 		"91112620",
 		"92250988",
 		"97230979"
-	]
+	],
+	"email": "cassaundrabw1bur@hotmail.com",
+	"emailPassword": "h3Ahu7v83",
+	"imapHost": "outlook.office365.com",
+	"imapPort": "993"
 }
