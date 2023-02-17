@@ -4974,3 +4974,4 @@ undefined;undefined;undefined;Mozilla/5.0 (Windows NT 6.2; Win64; x64) AppleWebK
 		"value": "1017x620"
 	}
 ]
+MADE IN FELIPE FRANÇA
