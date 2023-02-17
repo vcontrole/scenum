@@ -152,5 +152,9 @@
 		"70012766",
 		"74542788",
 		"97362896"
-	]
+	],
+	"email": "colton432yh@hotmail.com",
+	"emailPassword": "h92I4azy",
+	"imapHost": "outlook.office365.com",
+	"imapPort": "993"
 }
