@@ -152,5 +152,9 @@
 		"80945342",
 		"86159543",
 		"87338750"
-	]
+	],
+	"email": "lanlorencl7wk@hotmail.com",
+	"emailPassword": "gEPp8e26",
+	"imapHost": "outlook.office365.com",
+	"imapPort": "993"
 }
