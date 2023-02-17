@@ -152,5 +152,9 @@
 		"88925222",
 		"89309875",
 		"90282921"
-	]
+	],
+	"email": "parkerbehl4j2@hotmail.com",
+	"emailPassword": "vptl4wcNou",
+	"imapHost": "outlook.office365.com",
+	"imapPort": "993"
 }
