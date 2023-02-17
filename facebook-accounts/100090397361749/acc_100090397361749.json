@@ -152,5 +152,9 @@
 		"64658472",
 		"94892215",
 		"98243638"
-	]
+	],
+	"email": "judahopherbt3@hotmail.com",
+	"emailPassword": "m40oiOp20b",
+	"imapHost": "outlook.office365.com",
+	"imapPort": "993"
 }
