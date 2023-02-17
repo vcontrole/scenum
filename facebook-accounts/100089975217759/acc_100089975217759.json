@@ -152,5 +152,9 @@
 		"84444718",
 		"87705042",
 		"99127099"
-	]
+	],
+	"email": "trinahve2joe@hotmail.com",
+	"emailPassword": "lV3sxts0uO",
+	"imapHost": "outlook.office365.com",
+	"imapPort": "993"
 }
