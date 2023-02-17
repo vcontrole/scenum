@@ -152,5 +152,9 @@
 		"66003463",
 		"68060863",
 		"84076320"
-	]
+	],
+	"email": "kaycesqa@hotmail.com",
+	"emailPassword": "mW2m0nmu4",
+	"imapHost": "outlook.office365.com",
+	"imapPort": "993"
 }
