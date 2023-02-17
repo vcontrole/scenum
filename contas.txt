@@ -5237,3 +5237,95 @@ MADE IN FELIPE FRANÇA
 	}
 ]
 MADE IN FELIPE FRANÇA
+undefined;undefined;undefined;Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36;;:::;
+[
+	{
+		"domain": ".facebook.com",
+		"expirationDate": 1711186580.616305,
+		"hostOnly": false,
+		"httpOnly": true,
+		"name": "datr",
+		"path": "/",
+		"sameSite": "no_restriction",
+		"secure": true,
+		"session": false,
+		"storeId": "0",
+		"value": "jUrvY25LnvuOsyxttJrPzVRI"
+	},
+	{
+		"domain": ".facebook.com",
+		"expirationDate": 1711186583.998,
+		"hostOnly": false,
+		"httpOnly": true,
+		"name": "sb",
+		"path": "/",
+		"sameSite": "no_restriction",
+		"secure": true,
+		"session": false,
+		"storeId": "0",
+		"value": "mErvY7Cxr0WjTWdTdOLZg_zI"
+	},
+	{
+		"domain": ".facebook.com",
+		"hostOnly": false,
+		"httpOnly": false,
+		"name": "m_pixel_ratio",
+		"path": "/",
+		"sameSite": "unspecified",
+		"secure": true,
+		"session": true,
+		"storeId": "0",
+		"value": "1"
+	},
+	{
+		"domain": ".facebook.com",
+		"expirationDate": 1677231400,
+		"hostOnly": false,
+		"httpOnly": false,
+		"name": "wd",
+		"path": "/",
+		"sameSite": "lax",
+		"secure": true,
+		"session": false,
+		"storeId": "0",
+		"value": "1034x620"
+	},
+	{
+		"domain": ".facebook.com",
+		"hostOnly": false,
+		"httpOnly": false,
+		"name": "x-referer",
+		"path": "/",
+		"sameSite": "no_restriction",
+		"secure": true,
+		"session": true,
+		"storeId": "0",
+		"value": "eyJyIjoiL3JlZy8%2FY2lkPTEwMyZyZWZzcmM9ZGVwcmVjYXRlZCZydGltZT0xNjc2NjI2NTk3JmhyYz0xJnNvZnQ9aGprIiwiaCI6Ii9yZWcvP2NpZD0xMDMmcmVmc3JjPWRlcHJlY2F0ZWQmcnRpbWU9MTY3NjYyNjU5NyZocmM9MSZzb2Z0PWhqayIsInMiOiJtIn0%3D"
+	},
+	{
+		"domain": ".facebook.com",
+		"expirationDate": 1676628430.877,
+		"hostOnly": false,
+		"httpOnly": true,
+		"name": "rs",
+		"path": "/",
+		"sameSite": "no_restriction",
+		"secure": true,
+		"session": false,
+		"storeId": "0",
+		"value": "21%7C1%7C1984%7C%7C%7CAnastasia%7CCampos%7CAnastasia+Campos%7C1%7C%7C%7C1"
+	},
+	{
+		"domain": ".facebook.com",
+		"expirationDate": 1684402759.431699,
+		"hostOnly": false,
+		"httpOnly": true,
+		"name": "fr",
+		"path": "/",
+		"sameSite": "no_restriction",
+		"secure": true,
+		"session": false,
+		"storeId": "0",
+		"value": "0ErI3WgshcWJY21TZ..Bj70qY.6n.AAA.0.0.Bj70tI.AWWlpVXoF3c"
+	}
+]
