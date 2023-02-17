@@ -152,5 +152,9 @@
 		"63088558",
 		"69447147",
 		"83753567"
-	]
+	],
+	"email": "emmelinestl4@hotmail.com",
+	"emailPassword": "xXlE3zkx5e",
+	"imapHost": "outlook.office365.com",
+	"imapPort": "993"
 }
