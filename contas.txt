@@ -2572,3 +2572,121 @@ MADE IN FELIPE FRANÇA
 	}
 ]
 MADE IN FELIPE FRANÇA
+undefined;undefined;undefined;Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36;;:::;
+[
+	{
+		"domain": ".facebook.com",
+		"expirationDate": 1711172619.783175,
+		"hostOnly": false,
+		"httpOnly": true,
+		"name": "datr",
+		"path": "/",
+		"sameSite": "no_restriction",
+		"secure": true,
+		"session": false,
+		"storeId": "0",
+		"value": "BxTvY4KgHUJ6GfDqe6JB3KD8"
+	},
+	{
+		"domain": ".facebook.com",
+		"expirationDate": 1711172708.254316,
+		"hostOnly": false,
+		"httpOnly": true,
+		"name": "sb",
+		"path": "/",
+		"sameSite": "no_restriction",
+		"secure": true,
+		"session": false,
+		"storeId": "0",
+		"value": "DhTvY-1wZh7eSreRHCwtsLOd"
+	},
+	{
+		"domain": ".facebook.com",
+		"hostOnly": false,
+		"httpOnly": false,
+		"name": "m_pixel_ratio",
+		"path": "/",
+		"sameSite": "unspecified",
+		"secure": true,
+		"session": true,
+		"storeId": "0",
+		"value": "1"
+	},
+	{
+		"domain": ".facebook.com",
+		"expirationDate": 1684388686.254316,
+		"hostOnly": false,
+		"httpOnly": true,
+		"name": "fr",
+		"path": "/",
+		"sameSite": "no_restriction",
+		"secure": true,
+		"session": false,
+		"storeId": "0",
+		"value": "0jX7bDhWJIiupCRnQ.AWXad0VNOuPZ6SSNsPYXBx-7Iz4.Bj7xQO.Yl.AAA.0.0.Bj7xRa.AWX0wCbHRi8"
+	},
+	{
+		"domain": ".facebook.com",
+		"expirationDate": 1708148697.254316,
+		"hostOnly": false,
+		"httpOnly": false,
+		"name": "c_user",
+		"path": "/",
+		"sameSite": "no_restriction",
+		"secure": true,
+		"session": false,
+		"storeId": "0",
+		"value": "100090644820863"
+	},
+	{
+		"domain": ".facebook.com",
+		"expirationDate": 1708148697.254316,
+		"hostOnly": false,
+		"httpOnly": true,
+		"name": "xs",
+		"path": "/",
+		"sameSite": "no_restriction",
+		"secure": true,
+		"session": false,
+		"storeId": "0",
+		"value": "16%3AIR2TVPeQPaILFg%3A2%3A1676612707%3A-1%3A-1"
+	},
+	{
+		"domain": ".facebook.com",
+		"expirationDate": 1684388709.907316,
+		"hostOnly": false,
+		"httpOnly": true,
+		"name": "m_page_voice",
+		"path": "/",
+		"sameSite": "no_restriction",
+		"secure": true,
+		"session": false,
+		"storeId": "0",
+		"value": "100090644820863"
+	},
+	{
+		"domain": ".facebook.com",
+		"expirationDate": 1677217521,
+		"hostOnly": false,
+		"httpOnly": false,
+		"name": "wd",
+		"path": "/",
+		"sameSite": "lax",
+		"secure": true,
+		"session": false,
+		"storeId": "0",
+		"value": "1017x620"
+	},
+	{
+		"domain": ".facebook.com",
+		"hostOnly": false,
+		"httpOnly": false,
+		"name": "x-referer",
+		"path": "/",
+		"sameSite": "no_restriction",
+		"secure": true,
+		"session": true,
+		"storeId": "0",
+		"value": "eyJyIjoiL2NvbmZpcm1lbWFpbC5waHA%2FbmV4dD1odHRwcyUzQSUyRiUyRm0uZmFjZWJvb2suY29tJTJGJTNGcGFpcHYlM0QwJTI2ZWF2JTNEQWZialBYdWxpVm9qSGtiRFEtb1RhVVhDRms4RkphYkJ4d21xd2NXc0ZIQ0k1ZkxxMGlNS0U0Ul85eWR4djloby0tVSZwYWlwdj0wJmVhdj1BZmFGVXkzWG9OZVBzTHMzTHBKN0wxTGYtczZWTnhRUGR5OTRTNElGSHF4VjF2dzZPaDFpOFB1MEtPUExpcExid2VJJnNvZnQ9aGprIiwiaCI6Ii9jb25maXJtZW1haWwucGhwP25leHQ9aHR0cHMlM0ElMkYlMkZtLmZhY2Vib29rLmNvbSUyRiUzRnBhaXB2JTNEMCUyNmVhdiUzREFmYmpQWHVsaVZvakhrYkRRLW9UYVVYQ0ZrOEZKYWJCeHdtcXdjV3NGSENJNWZMcTBpTUtFNFJfOXlkeHY5aG8tLVUmcGFpcHY9MCZlYXY9QWZhRlV5M1hvTmVQc0xzM0xwSjdMMUxmLXM2Vk54UVBkeTk0UzRJRkhxeFYxdnc2T2gxaThQdTBLT1BMaXBMYndlSSZzb2Z0PWhqayIsInMiOiJtIn0%3D"
+	}
+]
