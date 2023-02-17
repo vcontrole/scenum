@@ -152,5 +152,9 @@
 		"83441529",
 		"90918009",
 		"94079132"
-	]
+	],
+	"email": "stevie4pnhengel@hotmail.com",
+	"emailPassword": "U8qVin712",
+	"imapHost": "outlook.office365.com",
+	"imapPort": "993"
 }
