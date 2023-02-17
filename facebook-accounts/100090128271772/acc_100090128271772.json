@@ -152,5 +152,9 @@
 		"79460519",
 		"88010534",
 		"89468786"
-	]
+	],
+	"email": "mellissa8d6k@hotmail.com",
+	"emailPassword": "dMik1wutd",
+	"imapHost": "outlook.office365.com",
+	"imapPort": "993"
 }
