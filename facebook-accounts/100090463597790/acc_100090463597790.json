@@ -102,20 +102,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1684375515.842175,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "fr",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "0iyTxWhPoIWnh8UIt.AWUqpmhrU0S4uVNmx7Ych5GrUJo.Bj7uAm.gd.AAA.0.0.Bj7uDd.AWXjytD4J6s"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1677204537,
+			"expirationDate": 1677204740,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -128,6 +115,19 @@
 		},
 		{
 			"domain": ".facebook.com",
+			"expirationDate": 1684375751.334794,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "fr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "0iyTxWhPoIWnh8UIt.AWUSZBLPxaLCPhuzYCNg2Mhes5o.Bj7uAm.gd.AAA.0.0.Bj7uHI.AWWoMbPLto0"
+		},
+		{
+			"domain": ".facebook.com",
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "presence",
@@ -136,8 +136,8 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1676599691590%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1676599895426%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "17.02.2023 02:08 01 - Criar perfil e preencher P01"
+	"lastEventDate": "17.02.2023 02:12 01 - Criar perfil e preencher P01"
 }
