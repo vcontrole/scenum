@@ -152,5 +152,9 @@
 		"78832985",
 		"80459970",
 		"89466222"
-	]
+	],
+	"email": "poldiexbstang@hotmail.com",
+	"emailPassword": "Siha1too",
+	"imapHost": "outlook.office365.com",
+	"imapPort": "993"
 }
