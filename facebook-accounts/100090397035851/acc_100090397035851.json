@@ -152,5 +152,9 @@
 		"90309454",
 		"92109523",
 		"99032347"
-	]
+	],
+	"email": "herminasagy@hotmail.com",
+	"emailPassword": "iq2ogaI9ku",
+	"imapHost": "outlook.office365.com",
+	"imapPort": "993"
 }
