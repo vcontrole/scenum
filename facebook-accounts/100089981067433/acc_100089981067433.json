@@ -8,7 +8,7 @@
 	"amountFriends": "",
 	"screenname": "Anabel Barros",
 	"birthdate": "1986 January 13",
-	"country": "",
+	"country": "Brazil",
 	"isAvatarExists": false,
 	"cookie": [
 		{
@@ -53,19 +53,6 @@
 			"domain": ".facebook.com",
 			"expirationDate": 1708147019.37134,
 			"hostOnly": false,
-			"httpOnly": false,
-			"name": "c_user",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "100089981067433"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1708147019.37134,
-			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
 			"path": "/",
@@ -74,6 +61,19 @@
 			"session": false,
 			"storeId": "0",
 			"value": "10%3AAXuuDpCXWoXCCQ%3A2%3A1676611027%3A-1%3A-1"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1708147019.37134,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "c_user",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "100089981067433"
 		},
 		{
 			"domain": ".facebook.com",
@@ -102,7 +102,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1677216261,
+			"expirationDate": 1677606643,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -115,7 +115,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1684387342.131785,
+			"expirationDate": 1684777684.127849,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -124,7 +124,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "09CL0X4swCJQUQSLy.AWWHHXtKhS0C3wV0VKO6HBTFMIA.Bj7w19.MW.AAA.0.0.Bj7w8P.AWVPSNzZd9I"
+			"value": "09CL0X4swCJQUQSLy.AWXxSQyOJnOXfHxmEXtH-QUdYp4.Bj7w19.MW.AAA.0.0.Bj9QPV.AWUqtTfb9pU"
 		},
 		{
 			"domain": ".facebook.com",
@@ -136,10 +136,10 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1676611467464%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1677001838344%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "21.02.2023 17:47 02 - Aquecimento Inicial P02",
+	"lastEventDate": "21.02.2023 17:50 02 - Aquecimento Inicial P02",
 	"code2fa": "7KN4J6F4ANGCGC2LFDZ6H5RAR3MEX7FD",
 	"recoveryCodes": [
 		"09061159",
