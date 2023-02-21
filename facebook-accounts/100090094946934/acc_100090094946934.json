@@ -8,7 +8,7 @@
 	"amountFriends": "",
 	"screenname": "Maitê Rocha",
 	"birthdate": "1986 January 8",
-	"country": "",
+	"country": "Brazil",
 	"isAvatarExists": false,
 	"cookie": [
 		{
@@ -53,19 +53,6 @@
 			"domain": ".facebook.com",
 			"expirationDate": 1708503231.467047,
 			"hostOnly": false,
-			"httpOnly": false,
-			"name": "c_user",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "100090094946934"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1708503231.467047,
-			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
 			"path": "/",
@@ -74,6 +61,19 @@
 			"session": false,
 			"storeId": "0",
 			"value": "38%3AuKno82Sz_GWMiw%3A2%3A1676967237%3A-1%3A-1"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1708503231.467047,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "c_user",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "100090094946934"
 		},
 		{
 			"domain": ".facebook.com",
@@ -102,7 +102,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1677572603,
+			"expirationDate": 1677611867,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -115,7 +115,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1684743610.406249,
+			"expirationDate": 1684782872.086729,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -124,7 +124,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "05e4rVoKfLjGX0g4F.AWWoOG-B9NXeW6pzG6uhGWADN3I.Bj9Hzy.3G.AAA.0.0.Bj9H67.AWXb3ISVclw"
+			"value": "05e4rVoKfLjGX0g4F.AWUthSLJZJzgKN7KHHwXQjtI4tk.Bj9Hzy.3G.AAA.0.0.Bj9RgZ.AWWIi28dQYA"
 		},
 		{
 			"domain": ".facebook.com",
@@ -136,10 +136,10 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1676967758018%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1677007039002%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "21.02.2023 19:14 02 - Aquecimento Inicial P01",
+	"lastEventDate": "21.02.2023 19:17 02 - Aquecimento Inicial P01",
 	"code2fa": "3KYYY3QTEYQBBFBKM5FP6GOE62FQKQH2",
 	"recoveryCodes": [
 		"07059881",
