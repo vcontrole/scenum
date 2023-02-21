@@ -152,5 +152,9 @@
 		"75585103",
 		"81106522",
 		"86828968"
-	]
+	],
+	"email": "kathileivy7t@hotmail.com",
+	"emailPassword": "s07l6QMI",
+	"imapHost": "outlook.office365.com",
+	"imapPort": "993"
 }
