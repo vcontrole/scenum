@@ -152,5 +152,9 @@
 		"83928183",
 		"85542635",
 		"91442122"
-	]
+	],
+	"email": "zitalit0@hotmail.com",
+	"emailPassword": "flgsTMj4Tg",
+	"imapHost": "outlook.office365.com",
+	"imapPort": "993"
 }
