@@ -139,6 +139,18 @@
 			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1676989405160%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "21.02.2023 14:38 01 - Criar perfil e preencher P01",
-	"code2fa": "QNJXXZPCVYEZ4KJACSYIWDQRICAQRLYO"
+	"lastEventDate": "21.02.2023 14:40 01 - Criar perfil e preencher P01",
+	"code2fa": "QNJXXZPCVYEZ4KJACSYIWDQRICAQRLYO",
+	"recoveryCodes": [
+		"03601390",
+		"07281382",
+		"10311818",
+		"16763481",
+		"60676300",
+		"68616878",
+		"72910254",
+		"81654730",
+		"82008727",
+		"87816111"
+	]
 }
