@@ -152,5 +152,9 @@
 		"68673541",
 		"75004125",
 		"97395824"
-	]
+	],
+	"email": "elizbethjancszf@hotmail.com",
+	"emailPassword": "vfs0n54Xw",
+	"imapHost": "outlook.office365.com",
+	"imapPort": "993"
 }
