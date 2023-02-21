@@ -152,5 +152,9 @@
 		"81654730",
 		"82008727",
 		"87816111"
-	]
+	],
+	"email": "janelleguohe@hotmail.com",
+	"emailPassword": "ivyj9Jeb",
+	"imapHost": "outlook.office365.com",
+	"imapPort": "993"
 }
