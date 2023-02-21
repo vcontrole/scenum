@@ -8,7 +8,7 @@
 	"amountFriends": "",
 	"screenname": "Ayla Matos",
 	"birthdate": "1988 January 10",
-	"country": "",
+	"country": "Brazil",
 	"isAvatarExists": false,
 	"cookie": [
 		{
@@ -102,7 +102,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1677256966,
+			"expirationDate": 1677614845,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -115,7 +115,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1684428017.781275,
+			"expirationDate": 1684785861.711393,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -124,7 +124,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0xcwVim9jdo0ZiVnu.AWVEIbn-rTYwbWvROLudNXNHb8Y.Bj76v7.zB.AAA.0.0.Bj763y.AWVTd4lqXqo"
+			"value": "0xcwVim9jdo0ZiVnu.AWUwzrWK-PZaz7tzgXgGtP2ChnI.Bj76v7.zB.AAA.0.0.Bj9SPG.AWXKzwthlsM"
 		},
 		{
 			"domain": ".facebook.com",
@@ -136,10 +136,10 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1676652169260%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1677010034698%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "21.02.2023 20:03 02 - Aquecimento Inicial P02",
+	"lastEventDate": "21.02.2023 20:07 02 - Aquecimento Inicial P02",
 	"code2fa": "XE3VUB2NOCR2J74F6IVY7TQ7X5D5IKDE",
 	"recoveryCodes": [
 		"01997371",
