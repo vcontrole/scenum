@@ -152,5 +152,9 @@
 		"74221678",
 		"74816941",
 		"82441481"
-	]
+	],
+	"email": "amospardue67@hotmail.com",
+	"emailPassword": "t2H1QbmMN",
+	"imapHost": "outlook.office365.com",
+	"imapPort": "993"
 }
