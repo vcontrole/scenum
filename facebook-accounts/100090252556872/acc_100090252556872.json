@@ -8,7 +8,7 @@
 	"amountFriends": "",
 	"screenname": "Angelina Matos",
 	"birthdate": "1979 February 7",
-	"country": "",
+	"country": "Brazil",
 	"isAvatarExists": false,
 	"cookie": [
 		{
@@ -102,7 +102,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1677234226,
+			"expirationDate": 1677627694,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -115,7 +115,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1684405211.14116,
+			"expirationDate": 1684798727.136364,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -124,7 +124,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0TGX74eIr4HNsvOPr.AWXzXk8P3u3akE5i9DF-AzjnR1Y.Bj71NL.Ao.AAA.0.0.Bj71Tc.AWVULWaqcd4"
+			"value": "0TGX74eIr4HNsvOPr.AWWBG1GFFQn3tSjR578QpAfWhGA.Bj71NL.Ao.AAA.0.0.Bj9VYI.AWU-ZCHPDbc"
 		},
 		{
 			"domain": ".facebook.com",
@@ -136,10 +136,10 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1676629381440%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1677022886310%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "21.02.2023 23:38 02 - Aquecimento Inicial P02",
+	"lastEventDate": "21.02.2023 23:41 02 - Aquecimento Inicial P02",
 	"code2fa": "R6RGHPW5WYYR6LHJHNW23XBHKM6O4IUV",
 	"recoveryCodes": [
 		"11141004",
