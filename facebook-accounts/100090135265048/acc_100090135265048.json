@@ -152,5 +152,9 @@
 		"91483806",
 		"97932627",
 		"98910349"
-	]
+	],
+	"email": "braidyflote@hotmail.com",
+	"emailPassword": "Jhlk2dm68L",
+	"imapHost": "outlook.office365.com",
+	"imapPort": "993"
 }
