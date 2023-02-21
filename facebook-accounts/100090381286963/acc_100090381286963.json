@@ -8,22 +8,9 @@
 	"amountFriends": "",
 	"screenname": "Helena Campos",
 	"birthdate": "1981 January 29",
-	"country": "",
+	"country": "Brazil",
 	"isAvatarExists": false,
 	"cookie": [
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1711548827.559918,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "datr",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "m9H0Y98UYT_AkayUz89bgMnf"
-		},
 		{
 			"domain": ".facebook.com",
 			"expirationDate": 1711548911.800603,
@@ -36,6 +23,19 @@
 			"session": false,
 			"storeId": "0",
 			"value": "m9H0Y1O-Y8xEtMeLM2FspR0l"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1711548827.559918,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "datr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "m9H0Y98UYT_AkayUz89bgMnf"
 		},
 		{
 			"domain": ".facebook.com",
@@ -53,19 +53,6 @@
 			"domain": ".facebook.com",
 			"expirationDate": 1708524899.800603,
 			"hostOnly": false,
-			"httpOnly": false,
-			"name": "c_user",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "100090381286963"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1708524899.800603,
-			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
 			"path": "/",
@@ -74,6 +61,19 @@
 			"session": false,
 			"storeId": "0",
 			"value": "26%3A92aXZsbiscFSAA%3A2%3A1676988910%3A-1%3A-1"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1708524899.800603,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "c_user",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "100090381286963"
 		},
 		{
 			"domain": ".facebook.com",
@@ -102,7 +102,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1677594249,
+			"expirationDate": 1677624506,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -115,7 +115,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1684765269.907201,
+			"expirationDate": 1684795523.011851,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -124,7 +124,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0iozRpszYzzhUSenl.AWXMuM3VI5li98hdiOWfCJLIVDk.Bj9NGb.NM.AAA.0.0.Bj9NNX.AWWtxIuTZ1E"
+			"value": "0iozRpszYzzhUSenl.AWUC5jHKFnov-2g_Q4vZ_yxGaxI.Bj9NGb.NM.AAA.0.0.Bj9UmE.AWXuNTGNo_4"
 		},
 		{
 			"domain": ".facebook.com",
@@ -136,10 +136,10 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1676989405160%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1677019682326%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "21.02.2023 22:45 02 - Aquecimento Inicial P01",
+	"lastEventDate": "21.02.2023 22:48 02 - Aquecimento Inicial P01",
 	"code2fa": "QNJXXZPCVYEZ4KJACSYIWDQRICAQRLYO",
 	"recoveryCodes": [
 		"03601390",
