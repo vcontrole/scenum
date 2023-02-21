@@ -8,7 +8,7 @@
 	"amountFriends": "",
 	"screenname": "Ariane Azevedo",
 	"birthdate": "1982 February 13",
-	"country": "",
+	"country": "Itacuruba",
 	"isAvatarExists": false,
 	"cookie": [
 		{
@@ -102,7 +102,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1677214477,
+			"expirationDate": 1677603102,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -115,7 +115,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1684385548.966603,
+			"expirationDate": 1684774144.589853,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -124,7 +124,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0ofPjwQ4axdoWqmaN.AWWOTjsPZt_RO7xbDR3h05FtiRc.Bj7wZe.jf.AAA.0.0.Bj7wgO.AWUtYw5hULc"
+			"value": "0ofPjwQ4axdoWqmaN.AWXnqDQMpyit_GywbQ2Lhv_07Ag.Bj7wZe.jf.AAA.0.0.Bj9PYB.AWX8_Vl0mdI"
 		},
 		{
 			"domain": ".facebook.com",
@@ -136,10 +136,10 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1676609680280%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1676998296074%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "21.02.2023 16:48 02 - Aquecimento Inicial P02",
+	"lastEventDate": "21.02.2023 16:51 02 - Aquecimento Inicial P02",
 	"code2fa": "JITD5XTEVWY7UGBLZBCDW2FWHKHYERX3",
 	"recoveryCodes": [
 		"09690119",
