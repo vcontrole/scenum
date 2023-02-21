@@ -8,7 +8,7 @@
 	"amountFriends": "",
 	"screenname": "Angelina Teixeira",
 	"birthdate": "1982 January 7",
-	"country": "",
+	"country": "Brazil",
 	"isAvatarExists": false,
 	"cookie": [
 		{
@@ -102,7 +102,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1677208782,
+			"expirationDate": 1677614316,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -115,7 +115,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1684379807.520221,
+			"expirationDate": 1684785346.800727,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -124,7 +124,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0SatBqLidIGodlK1J.AWWwR19Zf_u5j1Ij3sCpWXkW9MU.Bj7u_8.Zk.AAA.0.0.Bj7vGg.AWVzi3aJaoI"
+			"value": "0SatBqLidIGodlK1J.AWUvf6Mf5lL4k5tlinwTkBFmyNw.Bj7u_8.Zk.AAA.0.0.Bj9SHE.AWXgRNetDas"
 		},
 		{
 			"domain": ".facebook.com",
@@ -136,10 +136,10 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1676603937030%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1677009510723%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "21.02.2023 19:55 02 - Aquecimento Inicial P01",
+	"lastEventDate": "21.02.2023 19:58 02 - Aquecimento Inicial P01",
 	"code2fa": "YNO6NFSEN2CBQUKFXMDTVKLMP2Q7YPL7",
 	"recoveryCodes": [
 		"06377455",
