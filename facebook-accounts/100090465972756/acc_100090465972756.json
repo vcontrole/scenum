@@ -152,5 +152,9 @@
 		"80881755",
 		"81701942",
 		"88239601"
-	]
+	],
+	"email": "samsonmo59z@hotmail.com",
+	"emailPassword": "Js60bYkGin",
+	"imapHost": "outlook.office365.com",
+	"imapPort": "993"
 }
