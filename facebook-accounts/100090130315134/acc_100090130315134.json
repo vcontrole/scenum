@@ -152,5 +152,9 @@
 		"70735118",
 		"85398521",
 		"88618783"
-	]
+	],
+	"email": "kirstenldb@hotmail.com",
+	"emailPassword": "ktmPc7s4x2r",
+	"imapHost": "outlook.office365.com",
+	"imapPort": "993"
 }
