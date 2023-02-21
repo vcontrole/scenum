@@ -8,7 +8,7 @@
 	"amountFriends": "",
 	"screenname": "Alexandra Teixeira",
 	"birthdate": "1981 February 4",
-	"country": "",
+	"country": "Brazil",
 	"isAvatarExists": false,
 	"cookie": [
 		{
@@ -51,15 +51,16 @@
 		},
 		{
 			"domain": ".facebook.com",
+			"expirationDate": 1708150676.333036,
 			"hostOnly": false,
 			"httpOnly": true,
-			"name": "dnonce",
+			"name": "xs",
 			"path": "/",
-			"sameSite": "strict",
-			"secure": false,
-			"session": true,
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
 			"storeId": "0",
-			"value": "AWmONh9guYwIM9s_NduqHHE57LIPVnTBwXDi6GEDXdvPE1osjn8pRNhfe-wqtyT7MOjvmqY0SkBUoebltoWXGbpO"
+			"value": "5%3AyV6wOO741FpRzA%3A2%3A1676614687%3A-1%3A-1"
 		},
 		{
 			"domain": ".facebook.com",
@@ -73,19 +74,6 @@
 			"session": false,
 			"storeId": "0",
 			"value": "100090154309810"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1708150676.333036,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "xs",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "5%3AyV6wOO741FpRzA%3A2%3A1676614687%3A-1%3A-1"
 		},
 		{
 			"domain": ".facebook.com",
@@ -114,7 +102,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1677219955,
+			"expirationDate": 1677618643,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -127,7 +115,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1684391024.713473,
+			"expirationDate": 1684789709.882742,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -136,7 +124,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0faLPjN9ZMTbqzkNE.AWWWs6YkIC1PWX1HHTLClBD9CQg.Bj7xvC.pZ.AAA.0.0.Bj7x1y.AWUlwlhY-jw"
+			"value": "0faLPjN9ZMTbqzkNE.AWVcbp2tQ3zFgHcVJmpM2qr4pXs.Bj7xvC.pZ.AAA.0.0.Bj9TLO.AWWPAzlOEus"
 		},
 		{
 			"domain": ".facebook.com",
@@ -148,10 +136,10 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1676615158586%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1677013838791%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "21.02.2023 21:08 02 - Aquecimento Inicial P02",
+	"lastEventDate": "21.02.2023 21:10 02 - Aquecimento Inicial P02",
 	"code2fa": "CWRBMUPVBE7BVVQZTIVQY6LBRF2KX4CZ",
 	"recoveryCodes": [
 		"13112678",
