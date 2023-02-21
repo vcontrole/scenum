@@ -152,5 +152,9 @@
 		"85532836",
 		"96181809",
 		"96930551"
-	]
+	],
+	"email": "isaacvicoyyn@hotmail.com",
+	"emailPassword": "e57Bwp7Ti",
+	"imapHost": "outlook.office365.com",
+	"imapPort": "993"
 }
