@@ -8,22 +8,9 @@
 	"amountFriends": "",
 	"screenname": "Ayla Teixeira",
 	"birthdate": "1978 January 3",
-	"country": "",
+	"country": "Brazil",
 	"isAvatarExists": false,
 	"cookie": [
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1711206670.084542,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "datr",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "DpnvY2CZLV0b3sQaLfRd5kkl"
-		},
 		{
 			"domain": ".facebook.com",
 			"expirationDate": 1711206755.023435,
@@ -36,6 +23,19 @@
 			"session": false,
 			"storeId": "0",
 			"value": "DpnvYxdftY8WYthNWTpzhcYw"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1711206670.084542,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "datr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "DpnvY2CZLV0b3sQaLfRd5kkl"
 		},
 		{
 			"domain": ".facebook.com",
@@ -53,19 +53,6 @@
 			"domain": ".facebook.com",
 			"expirationDate": 1708182742.023435,
 			"hostOnly": false,
-			"httpOnly": false,
-			"name": "c_user",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "100090513816912"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1708182742.023435,
-			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
 			"path": "/",
@@ -74,6 +61,19 @@
 			"session": false,
 			"storeId": "0",
 			"value": "9%3Al1QwAwP1T3TSHg%3A2%3A1676646753%3A-1%3A-1"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1708182742.023435,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "c_user",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "100090513816912"
 		},
 		{
 			"domain": ".facebook.com",
@@ -102,7 +102,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1677252113,
+			"expirationDate": 1677644291,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -115,7 +115,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1684423112.818512,
+			"expirationDate": 1684815299.437593,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -124,7 +124,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0IGlMKvlJsiJm97tI.AWUXREjuxvEgREE31T-Zm49yO-g.Bj75kO.ug.AAA.0.0.Bj75rK.AWWIgvUhMK0"
+			"value": "0IGlMKvlJsiJm97tI.AWWRWKH-do1LsToUp5e4IjZH6l0.Bj75kO.ug.AAA.0.0.Bj9ZbE.AWX8SaeDOKE"
 		},
 		{
 			"domain": ".facebook.com",
@@ -136,10 +136,10 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1676647268225%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1677039465485%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "22.02.2023 04:14 02 - Aquecimento Inicial P02",
+	"lastEventDate": "22.02.2023 04:18 02 - Aquecimento Inicial P02",
 	"code2fa": "4CG7BA6GNSF3CAMWFXPGGMY6GEBWO6Y2",
 	"recoveryCodes": [
 		"03300600",
