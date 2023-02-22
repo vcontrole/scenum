@@ -8,7 +8,7 @@
 	"amountFriends": "",
 	"screenname": "Amanda Campos",
 	"birthdate": "1992 January 28",
-	"country": "",
+	"country": "Brazil",
 	"isAvatarExists": false,
 	"cookie": [
 		{
@@ -102,7 +102,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1677592348,
+			"expirationDate": 1677641412,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -115,7 +115,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1684763352.834072,
+			"expirationDate": 1684812455.471009,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -124,7 +124,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0YqdwUOncbKCseWU5.AWWkuIArdlK4BpiR93PTT2IJM4U.Bj9MoB.Lv.AAA.0.0.Bj9Mva.AWU-Caw2m5E"
+			"value": "0YqdwUOncbKCseWU5.AWWQJVqVPtiFQgq7Qa8FMm_0kSk.Bj9MoB.Lv.AAA.0.0.Bj9Yuo.AWVeF-S8Ypo"
 		},
 		{
 			"domain": ".facebook.com",
@@ -136,10 +136,10 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1676987501592%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1677036607278%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "22.02.2023 03:27 02 - Aquecimento Inicial P01",
+	"lastEventDate": "22.02.2023 03:30 02 - Aquecimento Inicial P01",
 	"code2fa": "CAE4OAITNO4ZLWTB66AFLPTLIFG75USW",
 	"recoveryCodes": [
 		"14249216",
