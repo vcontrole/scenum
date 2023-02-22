@@ -8,7 +8,7 @@
 	"amountFriends": "",
 	"screenname": "Alexandra Campos",
 	"birthdate": "1987 January 31",
-	"country": "",
+	"country": "Itacuruba",
 	"isAvatarExists": false,
 	"cookie": [
 		{
@@ -102,7 +102,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1677565952,
+			"expirationDate": 1677633546,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -115,7 +115,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1684736981.018226,
+			"expirationDate": 1684804597.345716,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -124,7 +124,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "062DViJIN4fbnczDI.AWUuxL71GKZx1OPLpxvkgq10C0Y.Bj9GMG.xd.AAA.0.0.Bj9GTW.AWUOJLte0J8"
+			"value": "062DViJIN4fbnczDI.AWVHWPrQ1fGjAvvTMvG-ASAGU9Y.Bj9GMG.xd.AAA.0.0.Bj9Wz2.AWXcMdid-Yg"
 		},
 		{
 			"domain": ".facebook.com",
@@ -136,10 +136,10 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1676961127972%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1677028741195%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "22.02.2023 01:16 02 - Aquecimento Inicial P01",
+	"lastEventDate": "22.02.2023 01:19 02 - Aquecimento Inicial P01",
 	"code2fa": "OSQMX77MDEZBDHNYSULFDKXF2PICWBEL",
 	"recoveryCodes": [
 		"14435703",
