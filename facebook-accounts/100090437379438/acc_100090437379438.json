@@ -8,7 +8,7 @@
 	"amountFriends": "",
 	"screenname": "Ayla Rocha",
 	"birthdate": "1993 February 7",
-	"country": "",
+	"country": "Brazil",
 	"isAvatarExists": false,
 	"cookie": [
 		{
@@ -102,7 +102,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1677226363,
+			"expirationDate": 1677638518,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -115,7 +115,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1684397387.117846,
+			"expirationDate": 1684809573.070704,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -124,7 +124,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0gJwXEP00P4J7B4sO.AWUGUpgpPB7uAP7WVX5LyBdBOxc.Bj7zSh.K1.AAA.0.0.Bj7zZM.AWVYqe7HWUU"
+			"value": "0gJwXEP00P4J7B4sO.AWW1tZr9TsCrRHaRSuYgguUBeUQ.Bj7zSh.K1.AAA.0.0.Bj9YBm.AWVRuQ_qx04"
 		},
 		{
 			"domain": ".facebook.com",
@@ -136,10 +136,10 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1676621519149%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1677033714923%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "22.02.2023 02:39 02 - Aquecimento Inicial P02",
+	"lastEventDate": "22.02.2023 02:42 02 - Aquecimento Inicial P02",
 	"code2fa": "QVY5NNOHTVSKWFHGQ6RENUTFXQV3UU42",
 	"recoveryCodes": [
 		"24170152",
