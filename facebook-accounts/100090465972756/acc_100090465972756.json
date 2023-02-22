@@ -8,7 +8,7 @@
 	"amountFriends": "",
 	"screenname": "Adelaide Barros",
 	"birthdate": "1987 February 17",
-	"country": "",
+	"country": "Itacuruba",
 	"isAvatarExists": false,
 	"cookie": [
 		{
@@ -53,19 +53,6 @@
 			"domain": ".facebook.com",
 			"expirationDate": 1708527422.884342,
 			"hostOnly": false,
-			"httpOnly": false,
-			"name": "c_user",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "100090465972756"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1708527422.884342,
-			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
 			"path": "/",
@@ -74,6 +61,19 @@
 			"session": false,
 			"storeId": "0",
 			"value": "31%3A9WEyRWcqjXbQAg%3A2%3A1676991433%3A-1%3A-1"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1708527422.884342,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "c_user",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "100090465972756"
 		},
 		{
 			"domain": ".facebook.com",
@@ -102,7 +102,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1677596742,
+			"expirationDate": 1677639542,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -115,7 +115,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1684767795.085942,
+			"expirationDate": 1684810596.348998,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -124,7 +124,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0bu3yJ7uNOqHrLFuY.AWUde54SOEVwu7-z5-U5t_fqh1o.Bj9Nt1.4-.AAA.0.0.Bj9N00.AWWdXhoZj9I"
+			"value": "0bu3yJ7uNOqHrLFuY.AWXIXqpET9dqzXb2pjzH6YjMgjY.Bj9Nt1.4-.AAA.0.0.Bj9YRl.AWUFpNepMP4"
 		},
 		{
 			"domain": ".facebook.com",
@@ -136,10 +136,10 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1676991918725%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1677034716903%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "22.02.2023 02:56 02 - Aquecimento Inicial P01",
+	"lastEventDate": "22.02.2023 02:59 02 - Aquecimento Inicial P01",
 	"code2fa": "ZH6VTOLOMYQIE74SZDL77S3TGA3HOO4D",
 	"recoveryCodes": [
 		"21438644",
