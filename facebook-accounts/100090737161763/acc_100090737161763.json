@@ -8,7 +8,7 @@
 	"amountFriends": "",
 	"screenname": "Manuela Azevedo",
 	"birthdate": "1985 February 12",
-	"country": "",
+	"country": "Itacuruba",
 	"isAvatarExists": false,
 	"cookie": [
 		{
@@ -102,7 +102,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1677592350,
+			"expirationDate": 1677655034,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -115,7 +115,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1684763392.396924,
+			"expirationDate": 1684826062.48649,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -124,7 +124,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "09YAxVYmG9jyLZtwP.AWXQEGUnIh1e6mmmFl4Oxo1Bxbo.Bj9Mol.Ef.AAA.0.0.Bj9MwB.AWVa_Rs5Wjs"
+			"value": "09YAxVYmG9jyLZtwP.AWWG5lglcRgtQmyer7zj1Z3j-Is.Bj9Mol.Ef.AAA.0.0.Bj9cDP.AWU_GB8IEgw"
 		},
 		{
 			"domain": ".facebook.com",
@@ -136,10 +136,10 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1676987526877%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1677050229767%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "22.02.2023 07:13 02 - Aquecimento Inicial P02",
+	"lastEventDate": "22.02.2023 07:17 02 - Aquecimento Inicial P02",
 	"code2fa": "QS34FLTCVV3VI5PNSW4F44MS4DWTPHFW",
 	"recoveryCodes": [
 		"00021843",
