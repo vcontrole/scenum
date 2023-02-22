@@ -8,22 +8,9 @@
 	"amountFriends": "",
 	"screenname": "Adelaide Matos",
 	"birthdate": "1990 February 3",
-	"country": "",
+	"country": "Itacuruba",
 	"isAvatarExists": false,
 	"cookie": [
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1711161676.2487,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "datr",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "TOnuY1obW3HcwyuhvLjA5YPo"
-		},
 		{
 			"domain": ".facebook.com",
 			"expirationDate": 1711161766.493526,
@@ -36,6 +23,19 @@
 			"session": false,
 			"storeId": "0",
 			"value": "TOnuYwMF8C22oCDj0E4AWGUa"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1711161676.2487,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "datr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "TOnuY1obW3HcwyuhvLjA5YPo"
 		},
 		{
 			"domain": ".facebook.com",
@@ -102,7 +102,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1677206931,
+			"expirationDate": 1677644442,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -115,7 +115,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1684378036.354041,
+			"expirationDate": 1684815496.643293,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -124,7 +124,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0k60AEyqhjDlDz8Hi.AWWsmdHnoEE3oVmhxWhUm_ImoJA.Bj7ulM.bB.AAA.0.0.Bj7uq1.AWU2p5WZRu8"
+			"value": "0k60AEyqhjDlDz8Hi.AWVviIq6MhwzrUo531yj7uhKObo.Bj7ulM.bB.AAA.0.0.Bj9ZeJ.AWUhaQEaXUU"
 		},
 		{
 			"domain": ".facebook.com",
@@ -136,10 +136,10 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1676602136457%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1677039637150%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "22.02.2023 04:18 02 - Aquecimento Inicial P01",
+	"lastEventDate": "22.02.2023 04:20 02 - Aquecimento Inicial P01",
 	"code2fa": "UKEOWQV4MRMUKSWQKSJAFV2LIZPG3DIM",
 	"recoveryCodes": [
 		"38833924",
