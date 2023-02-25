@@ -53,19 +53,6 @@
 			"domain": ".facebook.com",
 			"expirationDate": 1708149244.297422,
 			"hostOnly": false,
-			"httpOnly": true,
-			"name": "xs",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "37%3AmyJRagkU1PTKqw%3A2%3A1676613254%3A-1%3A-1"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1708149244.297422,
-			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
 			"path": "/",
@@ -74,6 +61,19 @@
 			"session": false,
 			"storeId": "0",
 			"value": "100090052884428"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1708149244.297422,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "xs",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "37%3AmyJRagkU1PTKqw%3A2%3A1676613254%3A-1%3A-1"
 		},
 		{
 			"domain": ".facebook.com",
@@ -102,7 +102,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1677607357,
+			"expirationDate": 1677966349,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -115,7 +115,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1684778403.214951,
+			"expirationDate": 1685137374.392321,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -124,7 +124,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0JyUP6GYsJqDpZged.AWXCyo8GAEKjzxsM-44KCMAIhm4.Bj7xY1.TC.AAA.0.0.Bj9Qak.AWVvceqExEs"
+			"value": "0JyUP6GYsJqDpZged.AWUvXsCXx8MTOJGpd31OQYe9jks.Bj7xY1.TC.AAA.0.0.Bj-oDf.AWW0g64eIGQ"
 		},
 		{
 			"domain": ".facebook.com",
@@ -136,10 +136,10 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1677002553108%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1677361523369%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "25.02.2023 21:42 02 - Aquecimento Inicial P01",
+	"lastEventDate": "25.02.2023 21:45 02 - Aquecimento Inicial P01",
 	"code2fa": "4SSUWIIXSG5KFPDU57XP4PE6TDIB5XJS",
 	"recoveryCodes": [
 		"10360241",
