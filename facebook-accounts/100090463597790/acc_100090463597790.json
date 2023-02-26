@@ -53,19 +53,6 @@
 			"domain": ".facebook.com",
 			"expirationDate": 1708135407.135514,
 			"hostOnly": false,
-			"httpOnly": false,
-			"name": "c_user",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "100090463597790"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1708135407.135514,
-			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
 			"path": "/",
@@ -74,6 +61,19 @@
 			"session": false,
 			"storeId": "0",
 			"value": "14%3AlJRH67p8xSiQkQ%3A2%3A1676599422%3A-1%3A-1"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1708135407.135514,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "c_user",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "100090463597790"
 		},
 		{
 			"domain": ".facebook.com",
@@ -102,7 +102,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1677981762,
+			"expirationDate": 1678036741,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -115,7 +115,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1685152761.757658,
+			"expirationDate": 1685207791.34999,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -124,7 +124,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0iyTxWhPoIWnh8UIt.AWUpVMA_lRpvsUdVUAirXO9a2O8.Bj7uAm.gd.AAA.0.0.Bj-rz7.AWXV2xiYzbk"
+			"value": "0iyTxWhPoIWnh8UIt.AWXh2N6CXmmDwdsLl50PLlUJSXQ.Bj7uAm.gd.AAA.0.0.Bj-5Pw.AWWgilePXzI"
 		},
 		{
 			"domain": ".facebook.com",
@@ -136,10 +136,10 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1677376936510%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1677431946183%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "26.02.2023 17:16 02 - Aquecimento Inicial P01",
+	"lastEventDate": "26.02.2023 17:19 02 - Aquecimento Inicial P01",
 	"code2fa": "3D23YH7A2WAOM5WHSI7JH5FE6X2ZVKX3",
 	"recoveryCodes": [
 		"20677016",
