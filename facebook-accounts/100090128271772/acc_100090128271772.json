@@ -13,19 +13,6 @@
 	"cookie": [
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1711211515.37917,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "datr",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "-6vvY-FJTb_H4SdT6MpIJ4_a"
-		},
-		{
-			"domain": ".facebook.com",
 			"expirationDate": 1711211674.498919,
 			"hostOnly": false,
 			"httpOnly": true,
@@ -36,6 +23,19 @@
 			"session": false,
 			"storeId": "0",
 			"value": "-6vvY0blgu-Nrr6GYa6cgbmm"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1711211515.37917,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "datr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "-6vvY-FJTb_H4SdT6MpIJ4_a"
 		},
 		{
 			"domain": ".facebook.com",
@@ -102,7 +102,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1677975354,
+			"expirationDate": 1678036227,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -115,7 +115,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1685146403.480768,
+			"expirationDate": 1685207290.785618,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -124,7 +124,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0xcwVim9jdo0ZiVnu.AWWqErq3pxlRt7CWr4mWT3v2a8c.Bj76v7.zB.AAA.0.0.Bj-qQk.AWV6Si7eIhY"
+			"value": "0xcwVim9jdo0ZiVnu.AWXfXbGOv6lzhAEUveZcheaZ3JQ.Bj76v7.zB.AAA.0.0.Bj-5H8.AWUAb8izFSg"
 		},
 		{
 			"domain": ".facebook.com",
@@ -136,10 +136,10 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%7B%22i%22%3A%22u.23221995011%22%7D%5D%2C%22utc3%22%3A1677370550191%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%7B%22i%22%3A%22u.23221995011%22%7D%5D%2C%22utc3%22%3A1677431417692%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "26.02.2023 17:07 02 - Aquecimento Inicial P02",
+	"lastEventDate": "26.02.2023 17:10 02 - Aquecimento Inicial P02",
 	"code2fa": "XE3VUB2NOCR2J74F6IVY7TQ7X5D5IKDE",
 	"recoveryCodes": [
 		"01997371",
