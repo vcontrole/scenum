@@ -13,19 +13,6 @@
 	"cookie": [
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1711209653.852717,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "sb",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "YqTvY37l2Ur7_4mGftouK0Fg"
-		},
-		{
-			"domain": ".facebook.com",
 			"expirationDate": 1711209570.150297,
 			"hostOnly": false,
 			"httpOnly": true,
@@ -36,6 +23,19 @@
 			"session": false,
 			"storeId": "0",
 			"value": "YqTvY91tWwTTVN00kRNYwbNv"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1711209653.852717,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "sb",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "YqTvY37l2Ur7_4mGftouK0Fg"
 		},
 		{
 			"domain": ".facebook.com",
@@ -102,7 +102,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1677640766,
+			"expirationDate": 1677984846,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -115,7 +115,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1684811783.566105,
+			"expirationDate": 1685155876.904014,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -124,7 +124,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0ouftwtQvbk9oSc8W.AWUCPtWiDjlSgeddgWwZigX44Ug.Bj76Ri.Af.AAA.0.0.Bj9YkI.AWXsYzdsZHE"
+			"value": "0ouftwtQvbk9oSc8W.AWXkv26BbmjTc8dW-IGgKFnbRVs.Bj76Ri.Af.AAA.0.0.Bj-skm.AWWTX2u6tTg"
 		},
 		{
 			"domain": ".facebook.com",
@@ -136,10 +136,10 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1677035956603%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1677380020336%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "26.02.2023 02:50 02 - Aquecimento Inicial P02",
+	"lastEventDate": "26.02.2023 02:54 02 - Aquecimento Inicial P02",
 	"code2fa": "LMQQLGE76Z3QA54VVGSMMXIIKMZL5IA6",
 	"recoveryCodes": [
 		"09121069",
