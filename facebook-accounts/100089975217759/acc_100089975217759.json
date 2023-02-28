@@ -102,7 +102,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1678135558,
+			"expirationDate": 1678221965,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -115,7 +115,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1685306603.229794,
+			"expirationDate": 1685393019.959431,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -124,7 +124,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0ofPjwQ4axdoWqmaN.AWWMUo9UyjzlxXUXj1C4tSY_sfA.Bj7wZe.jf.AAA.0.0.Bj_RXs.AWVwt1OSeOc"
+			"value": "0ofPjwQ4axdoWqmaN.AWXqSDQm07UD1kdmHiJkf6Of5vo.Bj7wZe.jf.AAA.0.0.Bj_md9.AWWPMqj7buE"
 		},
 		{
 			"domain": ".facebook.com",
@@ -136,10 +136,10 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%7B%22i%22%3A%22u.23221995011%22%7D%5D%2C%22utc3%22%3A1677530754161%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%7B%22i%22%3A%22u.23221995011%22%7D%5D%2C%22utc3%22%3A1677617155980%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "28.02.2023 20:43 02 - Aquecimento Inicial P02",
+	"lastEventDate": "28.02.2023 20:46 02 - Aquecimento Inicial P02",
 	"code2fa": "JITD5XTEVWY7UGBLZBCDW2FWHKHYERX3",
 	"recoveryCodes": [
 		"09690119",
