@@ -5,7 +5,7 @@
 	"status": 2,
 	"id": "100090649530578",
 	"name": "",
-	"amountFriends": "",
+	"amountFriends": "3",
 	"screenname": "Ana Matos",
 	"birthdate": "1989 January 11",
 	"country": "Brazil",
@@ -102,7 +102,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1678063718,
+			"expirationDate": 1678156138,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -115,7 +115,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1685234775.960555,
+			"expirationDate": 1685327206.486126,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -124,7 +124,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0rvjeSOqWErkmuttC.AWUcWq8gc1pHTgL37lbrTLD5nng.Bj7v8r.aC.AAA.0.0.Bj-_1Z.AWX44UE0gl0"
+			"value": "0rvjeSOqWErkmuttC.AWXMfIOHd55xkhkQ-pI9dsMH3zc.Bj7v8r.aC.AAA.0.0.Bj_WZn.AWVzZzsI5oI"
 		},
 		{
 			"domain": ".facebook.com",
@@ -136,10 +136,10 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%7B%22i%22%3A%22u.100644210090616%22%7D%5D%2C%22utc3%22%3A1677458908603%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%7B%22i%22%3A%22u.100644210090616%22%7D%5D%2C%22utc3%22%3A1677551332754%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "28.02.2023 02:26 02 - Aquecimento Inicial P02",
+	"lastEventDate": "28.02.2023 02:29 02 - Aquecimento Inicial P02",
 	"code2fa": "XKEMBMWMJRMNADB2G75YE6FXIKZPZ4VJ",
 	"recoveryCodes": [
 		"02994702",
