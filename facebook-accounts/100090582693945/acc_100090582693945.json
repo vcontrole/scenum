@@ -5,7 +5,7 @@
 	"status": 2,
 	"id": "100090582693945",
 	"name": "",
-	"amountFriends": "",
+	"amountFriends": "6",
 	"screenname": "Laura Teixeira",
 	"birthdate": "1981 January 27",
 	"country": "Itacuruba",
@@ -102,7 +102,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1678138177,
+			"expirationDate": 1678251642,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -115,7 +115,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1685309226.490707,
+			"expirationDate": 1685422666.926945,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -124,7 +124,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0IOhIVxC5X4dVRGfa.AWXRFyEvem3XwWy86ivVM4JkvmE.Bj70NN.a7.AAA.0.0.Bj_SAr.AWUFIE7HZwk"
+			"value": "0IOhIVxC5X4dVRGfa.AWXJHdrdKD7Zyx7r8fHLfaiORv8.Bj70NN.a7.AAA.0.0.Bj_ttM.AWVC2C-R7uU"
 		},
 		{
 			"domain": ".facebook.com",
@@ -136,10 +136,10 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1677533374441%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1677646815090%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "01.03.2023 04:57 02 - Aquecimento Inicial P02",
+	"lastEventDate": "01.03.2023 05:00 02 - Aquecimento Inicial P02",
 	"code2fa": "ABX6PUGBI2P5AXVOD42S447JVFRN3K7F",
 	"recoveryCodes": [
 		"06763254",
