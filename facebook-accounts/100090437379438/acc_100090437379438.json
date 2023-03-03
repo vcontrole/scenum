@@ -53,19 +53,6 @@
 			"domain": ".facebook.com",
 			"expirationDate": 1708157037.636938,
 			"hostOnly": false,
-			"httpOnly": false,
-			"name": "c_user",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "100090437379438"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1708157037.636938,
-			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
 			"path": "/",
@@ -74,6 +61,19 @@
 			"session": false,
 			"storeId": "0",
 			"value": "34%3ACo77kqGGRyvK7g%3A2%3A1676621045%3A-1%3A-1"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1708157037.636938,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "c_user",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "100090437379438"
 		},
 		{
 			"domain": ".facebook.com",
@@ -102,7 +102,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1678318763,
+			"expirationDate": 1678420622,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -115,7 +115,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1685489798.875449,
+			"expirationDate": 1685591665.401953,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -124,7 +124,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0gJwXEP00P4J7B4sO.AWU6QrkEqYXHlxs4NHqdfZN1EgU.Bj7zSh.K1.AAA.0.0.Bj_-GI.AWUH7QYCGyM"
+			"value": "0gJwXEP00P4J7B4sO.AWU0nL7U_8tzBybGUcTNVP7w0Vk.Bj7zSh.K1.AAA.0.0.BkAW9y.AWX9iZCmIlo"
 		},
 		{
 			"domain": ".facebook.com",
@@ -136,10 +136,10 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1677713950911%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1677815809206%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "03.03.2023 03:54 02 - Aquecimento Inicial P02",
+	"lastEventDate": "03.03.2023 03:57 02 - Aquecimento Inicial P02",
 	"code2fa": "QVY5NNOHTVSKWFHGQ6RENUTFXQV3UU42",
 	"recoveryCodes": [
 		"24170152",
