@@ -5,7 +5,7 @@
 	"status": 2,
 	"id": "100090397361749",
 	"name": "",
-	"amountFriends": "11",
+	"amountFriends": "12",
 	"screenname": "Ana Campos",
 	"birthdate": "1989 January 9",
 	"country": "Brazil",
@@ -102,7 +102,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1678522024,
+			"expirationDate": 1678637889,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -115,7 +115,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1685693054.551313,
+			"expirationDate": 1685808958.180801,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -124,7 +124,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "05Yq3gp6FTx995BaE.AWWcbh40QilDY0mkRCa40osWWT0.Bj75E-.c2.AAA.0.0.BkAvuA.AWVOFNzehc8"
+			"value": "05Yq3gp6FTx995BaE.AWX_fxPoAQ15Fa63Z-BahEmhlk4.Bj75E-.c2.AAA.0.0.BkBMA_.AWU8k5igKkA"
 		},
 		{
 			"domain": ".facebook.com",
@@ -136,10 +136,10 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%7B%22i%22%3A%22u.23221995011%22%7D%2C%7B%22i%22%3A%22u.520835781650646%22%7D%2C%7B%22i%22%3A%22u.100644210090616%22%7D%2C%7B%22i%22%3A%22u.100145585054504%22%7D%5D%2C%22utc3%22%3A1677917217145%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%7B%22i%22%3A%22u.100145585054504%22%7D%2C%7B%22i%22%3A%22u.23221995011%22%7D%2C%7B%22i%22%3A%22u.520835781650646%22%7D%2C%7B%22i%22%3A%22u.100644210090616%22%7D%5D%2C%22utc3%22%3A1678033085048%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "05.03.2023 16:15 02 - Aquecimento Inicial P02",
+	"lastEventDate": "05.03.2023 16:18 02 - Aquecimento Inicial P02",
 	"code2fa": "5N23LWSXTMSUWW7KCKPXITRMNZX3DPXN",
 	"recoveryCodes": [
 		"04047942",
