@@ -53,19 +53,6 @@
 			"domain": ".facebook.com",
 			"expirationDate": 1708135478.815098,
 			"hostOnly": false,
-			"httpOnly": false,
-			"name": "c_user",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "100090422289883"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1708135478.815098,
-			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
 			"path": "/",
@@ -74,6 +61,19 @@
 			"session": false,
 			"storeId": "0",
 			"value": "28%3AkzblfdG5gZ0_eA%3A2%3A1676599492%3A-1%3A-1"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1708135478.815098,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "c_user",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "100090422289883"
 		},
 		{
 			"domain": ".facebook.com",
@@ -102,7 +102,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1678576602,
+			"expirationDate": 1678906461,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -115,7 +115,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1685747626.685479,
+			"expirationDate": 1686077486.601327,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -124,7 +124,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0c8uA3ZJzU4pdS3Ff.AWVvawGApeWhJ0niiIaPvsUMexc.Bj7uBn.6G.AAA.0.0.BkA9Cs.AWXXgQu5nJQ"
+			"value": "0c8uA3ZJzU4pdS3Ff.AWUutOxpgOBg1qJJ6cu0fDAEk3w.Bj7uBn.6G.AAA.0.0.BkCNkv.AWW9D52G6YM"
 		},
 		{
 			"domain": ".facebook.com",
@@ -136,10 +136,10 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%7B%22i%22%3A%22u.23221995011%22%7D%5D%2C%22utc3%22%3A1677971777023%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%7B%22i%22%3A%22u.23221995011%22%7D%5D%2C%22utc3%22%3A1678301635851%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "08.03.2023 18:50 02 - Aquecimento Inicial P02",
+	"lastEventDate": "08.03.2023 18:54 02 - Aquecimento Inicial P02",
 	"code2fa": "VYBUTMAUKV5FGID7GU74UIPWOVS6XONK",
 	"recoveryCodes": [
 		"01327938",
