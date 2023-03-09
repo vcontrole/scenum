@@ -53,19 +53,6 @@
 			"domain": ".facebook.com",
 			"expirationDate": 1708145194.575277,
 			"hostOnly": false,
-			"httpOnly": false,
-			"name": "c_user",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "100089975217759"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1708145194.575277,
-			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
 			"path": "/",
@@ -74,6 +61,19 @@
 			"session": false,
 			"storeId": "0",
 			"value": "19%3A_LrqZkf0Lr1OyQ%3A2%3A1676609204%3A-1%3A-1"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1708145194.575277,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "c_user",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "100089975217759"
 		},
 		{
 			"domain": ".facebook.com",
@@ -102,7 +102,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1678919131,
+			"expirationDate": 1678985100,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -115,7 +115,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1686090182.894249,
+			"expirationDate": 1686156160.591717,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -124,7 +124,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0ofPjwQ4axdoWqmaN.AWVIGSukaZlYFCvMG1FsdVU016s.Bj7wZe.jf.AAA.0.0.BkCQrI.AWXQSrEuxgc"
+			"value": "0ofPjwQ4axdoWqmaN.AWVzesUzb5pHgI9u99pXHc1Nl90.Bj7wZe.jf.AAA.0.0.BkCgyC.AWUULxyxUeM"
 		},
 		{
 			"domain": ".facebook.com",
@@ -136,10 +136,10 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%7B%22i%22%3A%22u.23221995011%22%7D%2C%7B%22i%22%3A%22u.126740982492%22%7D%5D%2C%22utc3%22%3A1678314325767%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%7B%22i%22%3A%22u.23221995011%22%7D%2C%7B%22i%22%3A%22u.126740982492%22%7D%5D%2C%22utc3%22%3A1678380295580%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "09.03.2023 16:42 02 - Aquecimento Inicial P02",
+	"lastEventDate": "09.03.2023 16:45 02 - Aquecimento Inicial P02",
 	"code2fa": "JITD5XTEVWY7UGBLZBCDW2FWHKHYERX3",
 	"recoveryCodes": [
 		"09690119",
